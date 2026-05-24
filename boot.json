@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 3,
+  "builtAt": "2026-05-24T17:41:37.917Z",
+  "bizId": "shang-hai-can-yin",
+  "keyVersion": "v1",
+  "wasmObfuscated": true,
+  "manifest": {
+    "filename": "dfa41a75f0fa33d29871bfa3c56f027b446cedf1f027101f81ff1b57d5b2f6cf.enc",
+    "algorithm": "aes-256-gcm",
+    "ivBase64": "Vwaogi21A/Ah4xkj",
+    "tagBase64": "KwnBiLebCGXozGajlz3fGw==",
+    "ivLen": 12,
+    "tagLen": 16,
+    "plaintextLen": 1161,
+    "ciphertextLen": 1161
+  },
+  "wasm": {
+    "filename": "724cde95899160af90b0a3580b3f48e5598fa1ba666e3de401c9d11f35f8daf7.enc",
+    "algorithm": "aes-256-gcm",
+    "ivBase64": "QTnTYqbX8EjQ/sCS",
+    "tagBase64": "tEsbw8z1vHXFVLH4TbkbUA==",
+    "ivLen": 12,
+    "tagLen": 16,
+    "plaintextLen": 29404,
+    "ciphertextLen": 29404
+  },
+  "anchors": [
+    {
+      "index": 2,
+      "filename": "83d02f613f97a5a4ce7e373d2bb839fe1d9a0c502897f9fd0a3ff38f468cfa61.enc"
+    },
+    {
+      "index": 3,
+      "filename": "489a30cf676f05cbe8438134c7cf3ecfa67726e9668c42128a31886d3b4283bc.enc"
+    },
+    {
+      "index": 4,
+      "filename": "c82efed68e8b0d09ffd850d70b75264d6334bed395af27369cc408c6be80fd14.enc"
+    }
+  ]
+}
