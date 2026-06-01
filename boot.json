@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-01T20:11:13.071Z",
+  "builtAt": "2026-06-01T20:23:00.830Z",
   "bizId": "shang-hai-can-yin",
   "keyVersion": "v1",
   "wasmObfuscated": true,
@@ -18,20 +18,20 @@
     "entryCount": 3
   },
   "manifest": {
-    "filename": "fd1b00838bdb9808ae4336f04fc10ec8ffc7b523742ce9cf00f28250d412e3a3.enc",
+    "filename": "0fa5e6a52a7710b0165c9c66148ac71bccbe39abf106bbdc07b445fc9bf77356.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "y4pyVwZkmx1o84ET",
-    "tagBase64": "GEvjiVXrC0ZYM//LBxtxuw==",
+    "ivBase64": "NW71wlZ9k0UShrKl",
+    "tagBase64": "hHNiEsKzWV8mdo/8uhRWWw==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 1161,
     "ciphertextLen": 1161
   },
   "wasm": {
-    "filename": "fdff8e7bbeb7baff464afd697f67316fb3a7b2c529f4d161e7a70b7c56e2321f.enc",
+    "filename": "aebe993f6ead58ce2e6b713f76306c6541e60865d44f23355371a8c4bc6bccca.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "k5OT30/jRlZtZAuj",
-    "tagBase64": "DcrEljtgPVkBZ76aXJ40sQ==",
+    "ivBase64": "xA2qVYegIQGujWhg",
+    "tagBase64": "hxpmKjsv+IgempjgvGKdfA==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -40,15 +40,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "3c050564efaf6163a44dbc6b6a280a4484ddc7564d17a7c1099995f85a03c2a7.enc"
+      "filename": "ff37dece1d6147517a47d94b5debc4dff40d308453ffaafa9467004587ab494e.enc"
     },
     {
       "index": 3,
-      "filename": "95ce32d6a325815833f0f7884b9114e5daa6ac3e33c0ce45bcab2d96f5fbfe7d.enc"
+      "filename": "ea610193b09289e1c2a29784ce340b34fb0dba9cabf55ef95bfa510ddbc184ce.enc"
     },
     {
       "index": 4,
-      "filename": "e37873a39fe11e919c6573e667965efc56e4fc297c83e155e1ce46c81be20d00.enc"
+      "filename": "edda8f3654aceb0d2068992b347b4acb6250041c3031883d4fb7bdac82cddf89.enc"
     }
   ]
 }
