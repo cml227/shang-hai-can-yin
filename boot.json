@@ -1,13 +1,14 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-01T20:31:05.931Z",
+  "builtAt": "2026-06-04T08:39:49.110Z",
   "bizId": "shang-hai-can-yin",
   "keyVersion": "v1",
   "wasmObfuscated": true,
   "summary": {
-    "totalFiles": 3,
-    "totalSizeBytes": 3850,
+    "totalFiles": 4,
+    "totalSizeBytes": 4187,
     "prefixes": [
+      "images/",
       "menu/",
       "promotions/"
     ]
@@ -18,20 +19,20 @@
     "entryCount": 3
   },
   "manifest": {
-    "filename": "eb4c16060e8973b09c11f13a147e23e76eff1f129de3fe1c1fd5dfa131a7b303.enc",
+    "filename": "5add3c5840220001a5062f37ddd82a356ee2b0262233e0baa3c3dee83fe223b4.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "PzOCZb5mjyas1zOg",
-    "tagBase64": "M7MeUXv/guEui8z8PorO+Q==",
+    "ivBase64": "BempU5aWATFw+uA5",
+    "tagBase64": "g9K2MXpC/ryurcQkwJnP7g==",
     "ivLen": 12,
     "tagLen": 16,
-    "plaintextLen": 1161,
-    "ciphertextLen": 1161
+    "plaintextLen": 1543,
+    "ciphertextLen": 1543
   },
   "wasm": {
-    "filename": "055ca9d24aeb8b829ec58cb75f4d6753959e527ff661b5238cf411de6de79a59.enc",
+    "filename": "d36266f8776493c67929159c926ea8c130238c3762584198723b6db567f25720.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "MnCPBM359zfQqYOy",
-    "tagBase64": "ioawg7nXwYyRMnmWgbRY0g==",
+    "ivBase64": "ZklhIBNqBL5HO5Oe",
+    "tagBase64": "PRdZtVPytkEPmnMYiJ7Jrw==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -40,15 +41,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "efeab840eec5bf1ae013bf610cdb06539f855523d07248518b349313ef9ad491.enc"
+      "filename": "a7e450d8b902466552ad701f966d12140e820e7c3f9e2541e4ac6444a8d9ef02.enc"
     },
     {
       "index": 3,
-      "filename": "75d9b38f5321949951ea31002077154434c089c7f10556d67dc9cae037eb0f18.enc"
+      "filename": "aa053ceae432065b7c0fe8bd5a7e6cbd9a65c9ccf6ddd0709db4bbba238f134f.enc"
     },
     {
       "index": 4,
-      "filename": "dbbc851894ddde07d0dc1c34b131c393004f0a76fbca5521b332bf1e6cece27e.enc"
+      "filename": "b9e3d3f2e3b0a7a985b53bd42094456b0829eab12f11e40f9e8ad809a56b509e.enc"
     }
   ]
 }
